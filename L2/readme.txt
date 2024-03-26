@@ -1,2 +1,0 @@
-- implementare polimorfism in C
-- clase - constructori
