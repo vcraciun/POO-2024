@@ -1,0 +1,2928 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EnergyReport xmlns="http://schemas.microsoft.com/energy/2007">
+  <ReportInformation>
+    <ReportGuid>38fe535e-2db7-4fba-8da6-5e7317475504</ReportGuid>
+    <ReportVersion>1.0</ReportVersion>
+    <ScanTime>2024-04-15T21:36:55Z</ScanTime>
+    <ScanDuration>PT39S</ScanDuration>
+    <DroppedEvents>8469</DroppedEvents>
+    <DroppedBuffers>129</DroppedBuffers>
+  </ReportInformation>
+  <Troubleshooter guid="c78b52e3-9cd7-4802-979c-57ca1283dafa">
+    <Name>System Information</Name>
+    <AnalysisLog>
+      <LogEntry guid="683ed5e8-6dcd-4cbc-99e8-dcaeb80916c0">
+        <Name>Analysis Failure</Name>
+        <Severity>Error</Severity>
+        <Description>Analysis was unsuccessful. This can be caused by a corrupted trace file or dropped events.</Description>
+      </LogEntry>
+    </AnalysisLog>
+  </Troubleshooter>
+  <Troubleshooter guid="b80a1fd9-c81e-479f-8f72-c6a1e9e54dec">
+    <Name>Platform Timer Resolution</Name>
+    <AnalysisLog>
+      <LogEntry guid="843c944e-9fc2-4e58-9e58-9bfdf0ea25b2">
+        <Name>Platform Timer Resolution</Name>
+        <Severity>Informational</Severity>
+        <Description>The default platform timer resolution is 15.6ms (15625000ns) and should be used whenever the system is idle.  If the timer resolution is increased, processor power management technologies may not be effective.  The timer resolution may be increased due to multimedia playback or graphical animations.</Description>
+        <Details>
+          <Detail guid="e5ba7e97-57dd-4378-a022-0b5b3fff3d22">
+            <Name>Current Timer Resolution (100ns units)</Name>
+            <Value>156250</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="436954b1-cc2d-4740-9f97-23d1f2c1210e">
+        <Name>Outstanding Timer Request</Name>
+        <Severity>Warning</Severity>
+        <Description>A program or service has requested a timer resolution smaller than the platform maximum timer resolution.</Description>
+        <Details>
+          <Detail guid="df18c017-1af7-45aa-8393-f922d1c6046b">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="0ce5eb38-d897-4749-8210-242e77718472">
+            <Name>Requesting Process ID</Name>
+            <Value>52620</Value>
+          </Detail>
+          <Detail guid="d08924ce-6dac-46b4-80c2-4ece748e059c">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Microsoft Visual Studio\2022\Professional\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.ThreadedWaitDialog.exe</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="436954b1-cc2d-4740-9f97-23d1f2c1210e">
+        <Name>Outstanding Timer Request</Name>
+        <Severity>Warning</Severity>
+        <Description>A program or service has requested a timer resolution smaller than the platform maximum timer resolution.</Description>
+        <Details>
+          <Detail guid="df18c017-1af7-45aa-8393-f922d1c6046b">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="0ce5eb38-d897-4749-8210-242e77718472">
+            <Name>Requesting Process ID</Name>
+            <Value>29992</Value>
+          </Detail>
+          <Detail guid="d08924ce-6dac-46b4-80c2-4ece748e059c">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Discord\app-1.0.9041\Discord.exe</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="436954b1-cc2d-4740-9f97-23d1f2c1210e">
+        <Name>Outstanding Timer Request</Name>
+        <Severity>Warning</Severity>
+        <Description>A program or service has requested a timer resolution smaller than the platform maximum timer resolution.</Description>
+        <Details>
+          <Detail guid="df18c017-1af7-45aa-8393-f922d1c6046b">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="0ce5eb38-d897-4749-8210-242e77718472">
+            <Name>Requesting Process ID</Name>
+            <Value>28756</Value>
+          </Detail>
+          <Detail guid="d08924ce-6dac-46b4-80c2-4ece748e059c">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\WindowsApps\Microsoft.SkypeApp_15.117.3202.0_x64__kzf8qxf38zg5c\Skype\Skype.exe</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="436954b1-cc2d-4740-9f97-23d1f2c1210e">
+        <Name>Outstanding Timer Request</Name>
+        <Severity>Warning</Severity>
+        <Description>A program or service has requested a timer resolution smaller than the platform maximum timer resolution.</Description>
+        <Details>
+          <Detail guid="df18c017-1af7-45aa-8393-f922d1c6046b">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="0ce5eb38-d897-4749-8210-242e77718472">
+            <Name>Requesting Process ID</Name>
+            <Value>27164</Value>
+          </Detail>
+          <Detail guid="d08924ce-6dac-46b4-80c2-4ece748e059c">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\slack\app-4.37.98\slack.exe</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>66780</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\chrome.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\123.0.6312.123\chrome.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>60852</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft VS Code\Code.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft VS Code\Code.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>48868</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft VS Code\Code.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft VS Code\Code.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>64792</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft VS Code\Code.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft VS Code\Code.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>52820</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\chrome.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\123.0.6312.123\chrome.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>26796</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\chrome.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\123.0.6312.123\chrome.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>60364</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\chrome.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\123.0.6312.123\chrome.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>42636</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\chrome.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\123.0.6312.123\chrome.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>42808</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\chrome.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\123.0.6312.123\chrome.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>20124</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\chrome.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\123.0.6312.123\chrome.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>46212</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\Edge\Application\msedge.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\Edge\Application\123.0.2420.97\msedge.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\Edge\Application\msedge.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>62684</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\Edge\Application\msedge.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\Edge\Application\123.0.2420.97\msedge.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>30404</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE\devenv.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\Microsoft.NET\Framework64\v4.0.30319\WPF\wpfgfx_v0400.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>52620</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Microsoft Visual Studio\2022\Professional\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.ThreadedWaitDialog.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\Microsoft.NET\Framework64\v4.0.30319\WPF\wpfgfx_v0400.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>2908</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\slack\app-4.37.98\slack.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\slack\app-4.37.98\slack.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>23840</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\1Password\app\8\1Password.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\1Password\app\8\1Password.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>25632</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\1Password\app\8\1Password.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\1Password\app\8\1Password.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>24612</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\EdgeWebView\Application\123.0.2420.81\msedgewebview2.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\Edge\Application\123.0.2420.81\msedge.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\EdgeWebView\Application\123.0.2420.81\msedgewebview2.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>31384</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\chrome.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\123.0.6312.123\chrome.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>3496</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\EdgeWebView\Application\123.0.2420.81\msedgewebview2.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\Edge\Application\123.0.2420.81\msedge.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\EdgeWebView\Application\123.0.2420.81\msedgewebview2.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>30848</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\EdgeWebView\Application\123.0.2420.81\msedgewebview2.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\Edge\Application\123.0.2420.81\msedge.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\EdgeWebView\Application\123.0.2420.81\msedgewebview2.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>33184</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\EdgeWebView\Application\123.0.2420.81\msedgewebview2.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\Edge\Application\123.0.2420.81\msedge.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>32516</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\chrome.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\123.0.6312.123\chrome.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\chrome.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>31196</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\chrome.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\123.0.6312.123\chrome.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\chrome.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>28628</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\chrome.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\Google\Chrome\Application\123.0.6312.123\chrome.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>31208</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\WindowsApps\Microsoft.SkypeApp_15.117.3202.0_x64__kzf8qxf38zg5c\Skype\Skype.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\WindowsApps\Microsoft.SkypeApp_15.117.3202.0_x64__kzf8qxf38zg5c\Skype\Skype.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>29992</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Discord\app-1.0.9041\Discord.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\SysWOW64\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\SysWOW64\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Discord\app-1.0.9041\Discord.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\SysWOW64\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\SysWOW64\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>26268</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\WindowsApps\Microsoft.SkypeApp_15.117.3202.0_x64__kzf8qxf38zg5c\Skype\Skype.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\WindowsApps\Microsoft.SkypeApp_15.117.3202.0_x64__kzf8qxf38zg5c\Skype\Skype.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>28756</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\WindowsApps\Microsoft.SkypeApp_15.117.3202.0_x64__kzf8qxf38zg5c\Skype\Skype.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\WindowsApps\Microsoft.SkypeApp_15.117.3202.0_x64__kzf8qxf38zg5c\Skype\Skype.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>19056</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\WindowsApps\Microsoft.SkypeApp_15.117.3202.0_x64__kzf8qxf38zg5c\Skype\Skype.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\WindowsApps\Microsoft.SkypeApp_15.117.3202.0_x64__kzf8qxf38zg5c\Skype\Skype.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>18836</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\WindowsApps\Microsoft.SkypeApp_15.117.3202.0_x64__kzf8qxf38zg5c\Skype\Skype.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files\WindowsApps\Microsoft.SkypeApp_15.117.3202.0_x64__kzf8qxf38zg5c\Skype\Skype.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>11412</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\EdgeWebView\Application\123.0.2420.81\msedgewebview2.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\Edge\Application\123.0.2420.81\msedge.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>1996</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\EdgeWebView\Application\123.0.2420.81\msedgewebview2.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\Edge\Application\123.0.2420.81\msedge.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\EdgeWebView\Application\123.0.2420.81\msedgewebview2.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>28624</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\EdgeWebView\Application\123.0.2420.81\msedgewebview2.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\Edge\Application\123.0.2420.81\msedge.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Program Files (x86)\Microsoft\EdgeWebView\Application\123.0.2420.81\msedgewebview2.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>28564</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Discord\app-1.0.9041\Discord.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\SysWOW64\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\SysWOW64\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Discord\app-1.0.9041\Discord.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\SysWOW64\KernelBase.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\SysWOW64\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>26072</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Discord\app-1.0.9041\Discord.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\SysWOW64\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\SysWOW64\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Discord\app-1.0.9041\Discord.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\SysWOW64\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\SysWOW64\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>27164</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\slack\app-4.37.98\slack.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\slack\app-4.37.98\slack.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>23772</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\slack\app-4.37.98\slack.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\slack\app-4.37.98\slack.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>25164</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Microsoft\Teams\current\Teams.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Microsoft\Teams\current\Teams.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>25780</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Microsoft\Teams\current\Teams.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Microsoft\Teams\current\Teams.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>22856</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Microsoft\Teams\current\Teams.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Microsoft\Teams\current\Teams.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>11040</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Microsoft\Teams\current\Teams.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Microsoft\Teams\current\Teams.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>23816</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Microsoft\Teams\current\Teams.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Microsoft\Teams\current\Teams.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>22888</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Microsoft\Teams\current\Teams.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Microsoft\Teams\current\Teams.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>10000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>18880</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Microsoft\Teams\current\Teams.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Users\vcraciun\AppData\Local\Microsoft\Teams\current\Teams.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>40000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>22040</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\edgehtml.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\user32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\SystemRoot\system32\ntoskrnl.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\SystemRoot\System32\win32kfull.sys</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\SystemRoot\System32\win32k.sys</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\SystemRoot\system32\ntoskrnl.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\win32u.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\user32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\Windows.UI.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\Windows.UI.Xaml.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\twinapi.appcore.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\SHCore.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="f84b604c-98bb-47ba-a789-75cde4996a87">
+        <Name>Timer Request Stack</Name>
+        <Severity>Informational</Severity>
+        <Description>The stack of modules responsible for the lowest platform timer setting in this process.</Description>
+        <Details>
+          <Detail guid="039d0c56-f34d-4a82-82a9-85e65773ee94">
+            <Name>Requested Period</Name>
+            <Value>40000</Value>
+          </Detail>
+          <Detail guid="01ee080e-57de-431b-8016-8354fb450f1b">
+            <Name>Requesting Process ID</Name>
+            <Value>19496</Value>
+          </Detail>
+          <Detail guid="d15575fe-5c30-4eca-a1e8-583573756e7f">
+            <Name>Requesting Process Path</Name>
+            <Value>\Device\HarddiskVolume6\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\edgehtml.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\user32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\Windows.UI.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\edgehtml.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\kernel32.dll</Value>
+          </Detail>
+          <Detail guid="c3b5315f-40d8-47a4-ab56-70a237a8f78f">
+            <Name>Calling Module</Name>
+            <Value>\Device\HarddiskVolume6\Windows\System32\ntdll.dll</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+    </AnalysisLog>
+  </Troubleshooter>
+  <Troubleshooter guid="468e6809-1940-4b2d-ae6c-2208ad6e196b">
+    <Name>Power Policy</Name>
+    <AnalysisLog>
+      <LogEntry guid="2d5efe46-43de-4840-aa33-62e1c10af324">
+        <Name>Active Power Plan</Name>
+        <Severity>Informational</Severity>
+        <Description>The current power plan in use</Description>
+        <Details>
+          <Detail guid="abf6ffeb-c575-4031-87b6-0ef12a886fee">
+            <Name>Plan GUID</Name>
+            <Value>{381b4222-f694-41f0-9685-ff5bb260df2e}</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="937f3854-82c7-4388-a878-c5f04f5ae1fd">
+        <Name>Power Plan Personality (On Battery)</Name>
+        <Severity>Informational</Severity>
+        <Description>The personality of the current power plan when the system is on battery power.</Description>
+        <Details>
+          <Detail guid="b7f44371-d8a6-423d-8417-f2a9a1028f7f">
+            <Name>Personality</Name>
+            <Value>2</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="5da972cc-6777-4119-9874-a803a2036f38">
+        <Name>Display timeout disabled (On Battery)</Name>
+        <Severity>Error</Severity>
+        <Description>The display is not configured to turn off after a period of inactivity.</Description>
+      </LogEntry>
+      <LogEntry guid="fc79a03c-7f75-45db-b4df-c5582adbe2a5">
+        <Name>Sleep timeout is disabled (On Battery)</Name>
+        <Severity>Error</Severity>
+        <Description>The computer is not configured to automatically sleep after a period of inactivity.</Description>
+      </LogEntry>
+      <LogEntry guid="9e86d9e6-7916-4b89-89fc-a51032d61a5b">
+        <Name>Disk idle is disabled (On Battery)</Name>
+        <Severity>Error</Severity>
+        <Description>The disk is not configured to turn off after a period of disk inactivity.</Description>
+      </LogEntry>
+      <LogEntry guid="1424bcd5-8837-4f16-872c-3b29d3ffec33">
+        <Name>Video Quality (On Battery)</Name>
+        <Severity>Informational</Severity>
+        <Description>Enables Windows Media Player to optimize for quality or power savings when playing video.</Description>
+        <Details>
+          <Detail guid="23438ed2-d803-4d94-8f66-cfbf094797e7">
+            <Name>Quality Mode</Name>
+            <Value>1</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="a0463a6b-ae36-418b-9997-642ca0c55ac5">
+        <Name>Power Plan Personality (Plugged In)</Name>
+        <Severity>Informational</Severity>
+        <Description>The personality of the current power plan when the system is plugged in.</Description>
+        <Details>
+          <Detail guid="fc84c527-7c74-42c0-a8c5-cc6e1a60b961">
+            <Name>Personality</Name>
+            <Value>2</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="224e24fb-10b5-4fef-8375-ec3880b99150">
+        <Name>Display timeout disabled (Plugged In)</Name>
+        <Severity>Error</Severity>
+        <Description>The display is not configured to turn off after a period of inactivity.</Description>
+      </LogEntry>
+      <LogEntry guid="fc72f15c-ba05-49c0-b387-8cff36675ae5">
+        <Name>Sleep timeout is disabled (Plugged In)</Name>
+        <Severity>Error</Severity>
+        <Description>The computer is not configured to automatically sleep after a period of inactivity.</Description>
+      </LogEntry>
+      <LogEntry guid="580b1fae-1796-496f-bf58-d9a42ee92a11">
+        <Name>Disk idle is disabled (Plugged In)</Name>
+        <Severity>Error</Severity>
+        <Description>The disk is not configured to turn off after a period of disk inactivity.</Description>
+      </LogEntry>
+      <LogEntry guid="4847a8d0-101f-45ab-a73a-8b050188a9e5">
+        <Name>802.11 Radio Power Policy is Maximum Performance (Plugged In)</Name>
+        <Severity>Informational</Severity>
+        <Description>The current power policy for 802.11-compatible wireless network adapters is not configured to use low-power modes.</Description>
+      </LogEntry>
+      <LogEntry guid="2147bd4c-1120-465a-a6cc-27684ffe628a">
+        <Name>Video quality (Plugged In)</Name>
+        <Severity>Informational</Severity>
+        <Description>Enables Windows Media Player to optimize for quality or power savings when playing video.</Description>
+        <Details>
+          <Detail guid="dc3d55c6-2f0c-4397-bdc4-d2d9a3148969">
+            <Name>Quality Mode</Name>
+            <Value>0</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+    </AnalysisLog>
+  </Troubleshooter>
+  <Troubleshooter guid="d6f4a3bd-f55a-45ef-a705-640cfbb24f42">
+    <Name>System Availability Requests</Name>
+    <AnalysisLog>
+      <LogEntry guid="326fb9d3-85d4-4975-a922-f74e71c12360">
+        <Name>Analysis Success</Name>
+        <Severity>Informational</Severity>
+        <Description>Analysis was successful. No energy efficiency problems were found.  No information was returned.</Description>
+      </LogEntry>
+    </AnalysisLog>
+  </Troubleshooter>
+  <Troubleshooter guid="5a462902-896e-4fbb-a3f2-db2a5b3fc583">
+    <Name>USB Suspend</Name>
+    <AnalysisLog>
+      <LogEntry guid="683ed5e8-6dcd-4cbc-99e8-dcaeb80916c0">
+        <Name>Analysis Failure</Name>
+        <Severity>Error</Severity>
+        <Description>Analysis was unsuccessful. This can be caused by a corrupted trace file or dropped events.</Description>
+      </LogEntry>
+    </AnalysisLog>
+  </Troubleshooter>
+  <Troubleshooter guid="73494aab-f271-4b0f-8402-c6236de6c31a">
+    <Name>CPU Utilization</Name>
+    <AnalysisLog>
+      <LogEntry guid="683ed5e8-6dcd-4cbc-99e8-dcaeb80916c0">
+        <Name>Analysis Failure</Name>
+        <Severity>Error</Severity>
+        <Description>Analysis was unsuccessful. This can be caused by a corrupted trace file or dropped events.</Description>
+      </LogEntry>
+    </AnalysisLog>
+  </Troubleshooter>
+  <Troubleshooter guid="5f159d5d-4dec-4caf-81e5-645d77e05c84">
+    <Name>Battery</Name>
+    <AnalysisLog>
+      <LogEntry guid="76e4b077-bb50-4000-9563-7f5aa0c9dc26">
+        <Name>Battery Information</Name>
+        <Severity>Informational</Severity>
+        <Description></Description>
+        <Details>
+          <Detail guid="118bf18a-13d4-4226-b207-f2ae1638de8b">
+            <Name>Battery ID</Name>
+            <Value>281SMPDELL 68ND312</Value>
+          </Detail>
+          <Detail guid="85b01a9b-bb18-4f71-8d12-6f7dec4b3705">
+            <Name>Manufacturer</Name>
+            <Value>SMP</Value>
+          </Detail>
+          <Detail guid="1b9d5465-63f4-4c5d-8259-93effc455084">
+            <Name>Manufacture Date</Name>
+            <Value></Value>
+          </Detail>
+          <Detail guid="2229029f-aa9e-4591-989a-32223a114538">
+            <Name>Serial Number</Name>
+            <Value>281</Value>
+          </Detail>
+          <Detail guid="24e6973f-f544-4a33-876d-359ebc56336e">
+            <Name>Chemistry</Name>
+            <Value>LiP</Value>
+          </Detail>
+          <Detail guid="8676c4f7-8918-4007-af80-76e308ca983c">
+            <Name>Long Term</Name>
+            <Value>1</Value>
+          </Detail>
+          <Detail guid="8800d772-7da3-48a1-b1e4-fc86df0e49cf">
+            <Name>Sealed</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="17d29a01-f010-4f66-bf60-c121e35cfc2b">
+            <Name>Cycle Count</Name>
+            <Value></Value>
+          </Detail>
+          <Detail guid="beb3f51a-9d89-42ad-81c4-5f9b7f682fa4">
+            <Name>Design Capacity</Name>
+            <Value>95008</Value>
+          </Detail>
+          <Detail guid="b42aa79e-8ee8-44ae-8a11-5fe87cf2822b">
+            <Name>Last Full Charge</Name>
+            <Value>52987</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+    </AnalysisLog>
+  </Troubleshooter>
+  <Troubleshooter guid="6ff333f5-43e4-4c08-8988-120f93e3463a">
+    <Name>Platform Power Management Capabilities</Name>
+    <AnalysisLog>
+      <LogEntry guid="7e4c2100-20bf-4982-83d8-fd0b58453450">
+        <Name>Analysis Error</Name>
+        <Severity>Warning</Severity>
+        <Description>Analysis was partially unsuccessful. Some results are available, but they may be incomplete.</Description>
+      </LogEntry>
+      <LogEntry guid="753d2c57-956e-40a4-ba43-5c6642a60cb5">
+        <Name>Adaptive Display Brightness is supported.</Name>
+        <Severity>Informational</Severity>
+        <Description>This computer enables Windows to automatically control the brightness of the integrated display.</Description>
+      </LogEntry>
+      <LogEntry guid="03d3ec20-2fd3-4580-8eb4-0b072f4f8fa4">
+        <Name>Processor Power Management Capabilities</Name>
+        <Severity>Informational</Severity>
+        <Description>Effective processor power management enables the computer to automatically balance performance and energy consumption.</Description>
+        <Details>
+          <Detail guid="faf9e6b5-0f59-442c-90b0-31b9bb24a9b4">
+            <Name>Group</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="021617e8-09b4-4ef4-80ca-f7c76291a950">
+            <Name>Index</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="d3c55d82-09d5-41e6-923b-7fd53887df2a">
+            <Name>Idle State Count</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="14036425-2dcd-4129-a173-a4ee5fa79862">
+            <Name>Idle State Type</Name>
+            <Value>Micro Power Engine Plugin</Value>
+          </Detail>
+          <Detail guid="c118e17f-8532-491e-b8ec-c469083995d8">
+            <Name>Nominal Frequency (MHz)</Name>
+            <Value>2400</Value>
+          </Detail>
+          <Detail guid="adb2445a-ed2b-4a06-b114-77459a9d8dd1">
+            <Name>Maximum Performance Percentage</Name>
+            <Value>220</Value>
+          </Detail>
+          <Detail guid="0f8f7ad4-875e-4c39-9faa-71b48d1ff03c">
+            <Name>Lowest Performance Percentage</Name>
+            <Value>62</Value>
+          </Detail>
+          <Detail guid="788964a9-9ada-4009-9adc-00f85b40dc8f">
+            <Name>Lowest Throttle Percentage</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="0c3fb66a-c2cb-4d83-a63f-d11c83e20450">
+            <Name>Performance Controls Type</Name>
+            <Value>ACPI Collaborative Processor Performance Control</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="03d3ec20-2fd3-4580-8eb4-0b072f4f8fa4">
+        <Name>Processor Power Management Capabilities</Name>
+        <Severity>Informational</Severity>
+        <Description>Effective processor power management enables the computer to automatically balance performance and energy consumption.</Description>
+        <Details>
+          <Detail guid="faf9e6b5-0f59-442c-90b0-31b9bb24a9b4">
+            <Name>Group</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="021617e8-09b4-4ef4-80ca-f7c76291a950">
+            <Name>Index</Name>
+            <Value>1</Value>
+          </Detail>
+          <Detail guid="d3c55d82-09d5-41e6-923b-7fd53887df2a">
+            <Name>Idle State Count</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="14036425-2dcd-4129-a173-a4ee5fa79862">
+            <Name>Idle State Type</Name>
+            <Value>Micro Power Engine Plugin</Value>
+          </Detail>
+          <Detail guid="c118e17f-8532-491e-b8ec-c469083995d8">
+            <Name>Nominal Frequency (MHz)</Name>
+            <Value>2400</Value>
+          </Detail>
+          <Detail guid="adb2445a-ed2b-4a06-b114-77459a9d8dd1">
+            <Name>Maximum Performance Percentage</Name>
+            <Value>220</Value>
+          </Detail>
+          <Detail guid="0f8f7ad4-875e-4c39-9faa-71b48d1ff03c">
+            <Name>Lowest Performance Percentage</Name>
+            <Value>62</Value>
+          </Detail>
+          <Detail guid="788964a9-9ada-4009-9adc-00f85b40dc8f">
+            <Name>Lowest Throttle Percentage</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="0c3fb66a-c2cb-4d83-a63f-d11c83e20450">
+            <Name>Performance Controls Type</Name>
+            <Value>ACPI Collaborative Processor Performance Control</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="03d3ec20-2fd3-4580-8eb4-0b072f4f8fa4">
+        <Name>Processor Power Management Capabilities</Name>
+        <Severity>Informational</Severity>
+        <Description>Effective processor power management enables the computer to automatically balance performance and energy consumption.</Description>
+        <Details>
+          <Detail guid="faf9e6b5-0f59-442c-90b0-31b9bb24a9b4">
+            <Name>Group</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="021617e8-09b4-4ef4-80ca-f7c76291a950">
+            <Name>Index</Name>
+            <Value>2</Value>
+          </Detail>
+          <Detail guid="d3c55d82-09d5-41e6-923b-7fd53887df2a">
+            <Name>Idle State Count</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="14036425-2dcd-4129-a173-a4ee5fa79862">
+            <Name>Idle State Type</Name>
+            <Value>Micro Power Engine Plugin</Value>
+          </Detail>
+          <Detail guid="c118e17f-8532-491e-b8ec-c469083995d8">
+            <Name>Nominal Frequency (MHz)</Name>
+            <Value>2400</Value>
+          </Detail>
+          <Detail guid="adb2445a-ed2b-4a06-b114-77459a9d8dd1">
+            <Name>Maximum Performance Percentage</Name>
+            <Value>220</Value>
+          </Detail>
+          <Detail guid="0f8f7ad4-875e-4c39-9faa-71b48d1ff03c">
+            <Name>Lowest Performance Percentage</Name>
+            <Value>62</Value>
+          </Detail>
+          <Detail guid="788964a9-9ada-4009-9adc-00f85b40dc8f">
+            <Name>Lowest Throttle Percentage</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="0c3fb66a-c2cb-4d83-a63f-d11c83e20450">
+            <Name>Performance Controls Type</Name>
+            <Value>ACPI Collaborative Processor Performance Control</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="03d3ec20-2fd3-4580-8eb4-0b072f4f8fa4">
+        <Name>Processor Power Management Capabilities</Name>
+        <Severity>Informational</Severity>
+        <Description>Effective processor power management enables the computer to automatically balance performance and energy consumption.</Description>
+        <Details>
+          <Detail guid="faf9e6b5-0f59-442c-90b0-31b9bb24a9b4">
+            <Name>Group</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="021617e8-09b4-4ef4-80ca-f7c76291a950">
+            <Name>Index</Name>
+            <Value>3</Value>
+          </Detail>
+          <Detail guid="d3c55d82-09d5-41e6-923b-7fd53887df2a">
+            <Name>Idle State Count</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="14036425-2dcd-4129-a173-a4ee5fa79862">
+            <Name>Idle State Type</Name>
+            <Value>Micro Power Engine Plugin</Value>
+          </Detail>
+          <Detail guid="c118e17f-8532-491e-b8ec-c469083995d8">
+            <Name>Nominal Frequency (MHz)</Name>
+            <Value>2400</Value>
+          </Detail>
+          <Detail guid="adb2445a-ed2b-4a06-b114-77459a9d8dd1">
+            <Name>Maximum Performance Percentage</Name>
+            <Value>220</Value>
+          </Detail>
+          <Detail guid="0f8f7ad4-875e-4c39-9faa-71b48d1ff03c">
+            <Name>Lowest Performance Percentage</Name>
+            <Value>62</Value>
+          </Detail>
+          <Detail guid="788964a9-9ada-4009-9adc-00f85b40dc8f">
+            <Name>Lowest Throttle Percentage</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="0c3fb66a-c2cb-4d83-a63f-d11c83e20450">
+            <Name>Performance Controls Type</Name>
+            <Value>ACPI Collaborative Processor Performance Control</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="03d3ec20-2fd3-4580-8eb4-0b072f4f8fa4">
+        <Name>Processor Power Management Capabilities</Name>
+        <Severity>Informational</Severity>
+        <Description>Effective processor power management enables the computer to automatically balance performance and energy consumption.</Description>
+        <Details>
+          <Detail guid="faf9e6b5-0f59-442c-90b0-31b9bb24a9b4">
+            <Name>Group</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="021617e8-09b4-4ef4-80ca-f7c76291a950">
+            <Name>Index</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="d3c55d82-09d5-41e6-923b-7fd53887df2a">
+            <Name>Idle State Count</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="14036425-2dcd-4129-a173-a4ee5fa79862">
+            <Name>Idle State Type</Name>
+            <Value>Micro Power Engine Plugin</Value>
+          </Detail>
+          <Detail guid="c118e17f-8532-491e-b8ec-c469083995d8">
+            <Name>Nominal Frequency (MHz)</Name>
+            <Value>2400</Value>
+          </Detail>
+          <Detail guid="adb2445a-ed2b-4a06-b114-77459a9d8dd1">
+            <Name>Maximum Performance Percentage</Name>
+            <Value>220</Value>
+          </Detail>
+          <Detail guid="0f8f7ad4-875e-4c39-9faa-71b48d1ff03c">
+            <Name>Lowest Performance Percentage</Name>
+            <Value>62</Value>
+          </Detail>
+          <Detail guid="788964a9-9ada-4009-9adc-00f85b40dc8f">
+            <Name>Lowest Throttle Percentage</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="0c3fb66a-c2cb-4d83-a63f-d11c83e20450">
+            <Name>Performance Controls Type</Name>
+            <Value>ACPI Collaborative Processor Performance Control</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="03d3ec20-2fd3-4580-8eb4-0b072f4f8fa4">
+        <Name>Processor Power Management Capabilities</Name>
+        <Severity>Informational</Severity>
+        <Description>Effective processor power management enables the computer to automatically balance performance and energy consumption.</Description>
+        <Details>
+          <Detail guid="faf9e6b5-0f59-442c-90b0-31b9bb24a9b4">
+            <Name>Group</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="021617e8-09b4-4ef4-80ca-f7c76291a950">
+            <Name>Index</Name>
+            <Value>5</Value>
+          </Detail>
+          <Detail guid="d3c55d82-09d5-41e6-923b-7fd53887df2a">
+            <Name>Idle State Count</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="14036425-2dcd-4129-a173-a4ee5fa79862">
+            <Name>Idle State Type</Name>
+            <Value>Micro Power Engine Plugin</Value>
+          </Detail>
+          <Detail guid="c118e17f-8532-491e-b8ec-c469083995d8">
+            <Name>Nominal Frequency (MHz)</Name>
+            <Value>2400</Value>
+          </Detail>
+          <Detail guid="adb2445a-ed2b-4a06-b114-77459a9d8dd1">
+            <Name>Maximum Performance Percentage</Name>
+            <Value>220</Value>
+          </Detail>
+          <Detail guid="0f8f7ad4-875e-4c39-9faa-71b48d1ff03c">
+            <Name>Lowest Performance Percentage</Name>
+            <Value>62</Value>
+          </Detail>
+          <Detail guid="788964a9-9ada-4009-9adc-00f85b40dc8f">
+            <Name>Lowest Throttle Percentage</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="0c3fb66a-c2cb-4d83-a63f-d11c83e20450">
+            <Name>Performance Controls Type</Name>
+            <Value>ACPI Collaborative Processor Performance Control</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="03d3ec20-2fd3-4580-8eb4-0b072f4f8fa4">
+        <Name>Processor Power Management Capabilities</Name>
+        <Severity>Informational</Severity>
+        <Description>Effective processor power management enables the computer to automatically balance performance and energy consumption.</Description>
+        <Details>
+          <Detail guid="faf9e6b5-0f59-442c-90b0-31b9bb24a9b4">
+            <Name>Group</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="021617e8-09b4-4ef4-80ca-f7c76291a950">
+            <Name>Index</Name>
+            <Value>6</Value>
+          </Detail>
+          <Detail guid="d3c55d82-09d5-41e6-923b-7fd53887df2a">
+            <Name>Idle State Count</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="14036425-2dcd-4129-a173-a4ee5fa79862">
+            <Name>Idle State Type</Name>
+            <Value>Micro Power Engine Plugin</Value>
+          </Detail>
+          <Detail guid="c118e17f-8532-491e-b8ec-c469083995d8">
+            <Name>Nominal Frequency (MHz)</Name>
+            <Value>2400</Value>
+          </Detail>
+          <Detail guid="adb2445a-ed2b-4a06-b114-77459a9d8dd1">
+            <Name>Maximum Performance Percentage</Name>
+            <Value>220</Value>
+          </Detail>
+          <Detail guid="0f8f7ad4-875e-4c39-9faa-71b48d1ff03c">
+            <Name>Lowest Performance Percentage</Name>
+            <Value>62</Value>
+          </Detail>
+          <Detail guid="788964a9-9ada-4009-9adc-00f85b40dc8f">
+            <Name>Lowest Throttle Percentage</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="0c3fb66a-c2cb-4d83-a63f-d11c83e20450">
+            <Name>Performance Controls Type</Name>
+            <Value>ACPI Collaborative Processor Performance Control</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="03d3ec20-2fd3-4580-8eb4-0b072f4f8fa4">
+        <Name>Processor Power Management Capabilities</Name>
+        <Severity>Informational</Severity>
+        <Description>Effective processor power management enables the computer to automatically balance performance and energy consumption.</Description>
+        <Details>
+          <Detail guid="faf9e6b5-0f59-442c-90b0-31b9bb24a9b4">
+            <Name>Group</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="021617e8-09b4-4ef4-80ca-f7c76291a950">
+            <Name>Index</Name>
+            <Value>7</Value>
+          </Detail>
+          <Detail guid="d3c55d82-09d5-41e6-923b-7fd53887df2a">
+            <Name>Idle State Count</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="14036425-2dcd-4129-a173-a4ee5fa79862">
+            <Name>Idle State Type</Name>
+            <Value>Micro Power Engine Plugin</Value>
+          </Detail>
+          <Detail guid="c118e17f-8532-491e-b8ec-c469083995d8">
+            <Name>Nominal Frequency (MHz)</Name>
+            <Value>2400</Value>
+          </Detail>
+          <Detail guid="adb2445a-ed2b-4a06-b114-77459a9d8dd1">
+            <Name>Maximum Performance Percentage</Name>
+            <Value>220</Value>
+          </Detail>
+          <Detail guid="0f8f7ad4-875e-4c39-9faa-71b48d1ff03c">
+            <Name>Lowest Performance Percentage</Name>
+            <Value>62</Value>
+          </Detail>
+          <Detail guid="788964a9-9ada-4009-9adc-00f85b40dc8f">
+            <Name>Lowest Throttle Percentage</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="0c3fb66a-c2cb-4d83-a63f-d11c83e20450">
+            <Name>Performance Controls Type</Name>
+            <Value>ACPI Collaborative Processor Performance Control</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="03d3ec20-2fd3-4580-8eb4-0b072f4f8fa4">
+        <Name>Processor Power Management Capabilities</Name>
+        <Severity>Informational</Severity>
+        <Description>Effective processor power management enables the computer to automatically balance performance and energy consumption.</Description>
+        <Details>
+          <Detail guid="faf9e6b5-0f59-442c-90b0-31b9bb24a9b4">
+            <Name>Group</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="021617e8-09b4-4ef4-80ca-f7c76291a950">
+            <Name>Index</Name>
+            <Value>8</Value>
+          </Detail>
+          <Detail guid="d3c55d82-09d5-41e6-923b-7fd53887df2a">
+            <Name>Idle State Count</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="14036425-2dcd-4129-a173-a4ee5fa79862">
+            <Name>Idle State Type</Name>
+            <Value>Micro Power Engine Plugin</Value>
+          </Detail>
+          <Detail guid="c118e17f-8532-491e-b8ec-c469083995d8">
+            <Name>Nominal Frequency (MHz)</Name>
+            <Value>2400</Value>
+          </Detail>
+          <Detail guid="adb2445a-ed2b-4a06-b114-77459a9d8dd1">
+            <Name>Maximum Performance Percentage</Name>
+            <Value>220</Value>
+          </Detail>
+          <Detail guid="0f8f7ad4-875e-4c39-9faa-71b48d1ff03c">
+            <Name>Lowest Performance Percentage</Name>
+            <Value>62</Value>
+          </Detail>
+          <Detail guid="788964a9-9ada-4009-9adc-00f85b40dc8f">
+            <Name>Lowest Throttle Percentage</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="0c3fb66a-c2cb-4d83-a63f-d11c83e20450">
+            <Name>Performance Controls Type</Name>
+            <Value>ACPI Collaborative Processor Performance Control</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="03d3ec20-2fd3-4580-8eb4-0b072f4f8fa4">
+        <Name>Processor Power Management Capabilities</Name>
+        <Severity>Informational</Severity>
+        <Description>Effective processor power management enables the computer to automatically balance performance and energy consumption.</Description>
+        <Details>
+          <Detail guid="faf9e6b5-0f59-442c-90b0-31b9bb24a9b4">
+            <Name>Group</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="021617e8-09b4-4ef4-80ca-f7c76291a950">
+            <Name>Index</Name>
+            <Value>9</Value>
+          </Detail>
+          <Detail guid="d3c55d82-09d5-41e6-923b-7fd53887df2a">
+            <Name>Idle State Count</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="14036425-2dcd-4129-a173-a4ee5fa79862">
+            <Name>Idle State Type</Name>
+            <Value>Micro Power Engine Plugin</Value>
+          </Detail>
+          <Detail guid="c118e17f-8532-491e-b8ec-c469083995d8">
+            <Name>Nominal Frequency (MHz)</Name>
+            <Value>2400</Value>
+          </Detail>
+          <Detail guid="adb2445a-ed2b-4a06-b114-77459a9d8dd1">
+            <Name>Maximum Performance Percentage</Name>
+            <Value>220</Value>
+          </Detail>
+          <Detail guid="0f8f7ad4-875e-4c39-9faa-71b48d1ff03c">
+            <Name>Lowest Performance Percentage</Name>
+            <Value>62</Value>
+          </Detail>
+          <Detail guid="788964a9-9ada-4009-9adc-00f85b40dc8f">
+            <Name>Lowest Throttle Percentage</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="0c3fb66a-c2cb-4d83-a63f-d11c83e20450">
+            <Name>Performance Controls Type</Name>
+            <Value>ACPI Collaborative Processor Performance Control</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="03d3ec20-2fd3-4580-8eb4-0b072f4f8fa4">
+        <Name>Processor Power Management Capabilities</Name>
+        <Severity>Informational</Severity>
+        <Description>Effective processor power management enables the computer to automatically balance performance and energy consumption.</Description>
+        <Details>
+          <Detail guid="faf9e6b5-0f59-442c-90b0-31b9bb24a9b4">
+            <Name>Group</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="021617e8-09b4-4ef4-80ca-f7c76291a950">
+            <Name>Index</Name>
+            <Value>10</Value>
+          </Detail>
+          <Detail guid="d3c55d82-09d5-41e6-923b-7fd53887df2a">
+            <Name>Idle State Count</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="14036425-2dcd-4129-a173-a4ee5fa79862">
+            <Name>Idle State Type</Name>
+            <Value>Micro Power Engine Plugin</Value>
+          </Detail>
+          <Detail guid="c118e17f-8532-491e-b8ec-c469083995d8">
+            <Name>Nominal Frequency (MHz)</Name>
+            <Value>2400</Value>
+          </Detail>
+          <Detail guid="adb2445a-ed2b-4a06-b114-77459a9d8dd1">
+            <Name>Maximum Performance Percentage</Name>
+            <Value>220</Value>
+          </Detail>
+          <Detail guid="0f8f7ad4-875e-4c39-9faa-71b48d1ff03c">
+            <Name>Lowest Performance Percentage</Name>
+            <Value>62</Value>
+          </Detail>
+          <Detail guid="788964a9-9ada-4009-9adc-00f85b40dc8f">
+            <Name>Lowest Throttle Percentage</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="0c3fb66a-c2cb-4d83-a63f-d11c83e20450">
+            <Name>Performance Controls Type</Name>
+            <Value>ACPI Collaborative Processor Performance Control</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="03d3ec20-2fd3-4580-8eb4-0b072f4f8fa4">
+        <Name>Processor Power Management Capabilities</Name>
+        <Severity>Informational</Severity>
+        <Description>Effective processor power management enables the computer to automatically balance performance and energy consumption.</Description>
+        <Details>
+          <Detail guid="faf9e6b5-0f59-442c-90b0-31b9bb24a9b4">
+            <Name>Group</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="021617e8-09b4-4ef4-80ca-f7c76291a950">
+            <Name>Index</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="d3c55d82-09d5-41e6-923b-7fd53887df2a">
+            <Name>Idle State Count</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="14036425-2dcd-4129-a173-a4ee5fa79862">
+            <Name>Idle State Type</Name>
+            <Value>Micro Power Engine Plugin</Value>
+          </Detail>
+          <Detail guid="c118e17f-8532-491e-b8ec-c469083995d8">
+            <Name>Nominal Frequency (MHz)</Name>
+            <Value>2400</Value>
+          </Detail>
+          <Detail guid="adb2445a-ed2b-4a06-b114-77459a9d8dd1">
+            <Name>Maximum Performance Percentage</Name>
+            <Value>220</Value>
+          </Detail>
+          <Detail guid="0f8f7ad4-875e-4c39-9faa-71b48d1ff03c">
+            <Name>Lowest Performance Percentage</Name>
+            <Value>62</Value>
+          </Detail>
+          <Detail guid="788964a9-9ada-4009-9adc-00f85b40dc8f">
+            <Name>Lowest Throttle Percentage</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="0c3fb66a-c2cb-4d83-a63f-d11c83e20450">
+            <Name>Performance Controls Type</Name>
+            <Value>ACPI Collaborative Processor Performance Control</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="03d3ec20-2fd3-4580-8eb4-0b072f4f8fa4">
+        <Name>Processor Power Management Capabilities</Name>
+        <Severity>Informational</Severity>
+        <Description>Effective processor power management enables the computer to automatically balance performance and energy consumption.</Description>
+        <Details>
+          <Detail guid="faf9e6b5-0f59-442c-90b0-31b9bb24a9b4">
+            <Name>Group</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="021617e8-09b4-4ef4-80ca-f7c76291a950">
+            <Name>Index</Name>
+            <Value>12</Value>
+          </Detail>
+          <Detail guid="d3c55d82-09d5-41e6-923b-7fd53887df2a">
+            <Name>Idle State Count</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="14036425-2dcd-4129-a173-a4ee5fa79862">
+            <Name>Idle State Type</Name>
+            <Value>Micro Power Engine Plugin</Value>
+          </Detail>
+          <Detail guid="c118e17f-8532-491e-b8ec-c469083995d8">
+            <Name>Nominal Frequency (MHz)</Name>
+            <Value>2400</Value>
+          </Detail>
+          <Detail guid="adb2445a-ed2b-4a06-b114-77459a9d8dd1">
+            <Name>Maximum Performance Percentage</Name>
+            <Value>220</Value>
+          </Detail>
+          <Detail guid="0f8f7ad4-875e-4c39-9faa-71b48d1ff03c">
+            <Name>Lowest Performance Percentage</Name>
+            <Value>62</Value>
+          </Detail>
+          <Detail guid="788964a9-9ada-4009-9adc-00f85b40dc8f">
+            <Name>Lowest Throttle Percentage</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="0c3fb66a-c2cb-4d83-a63f-d11c83e20450">
+            <Name>Performance Controls Type</Name>
+            <Value>ACPI Collaborative Processor Performance Control</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="03d3ec20-2fd3-4580-8eb4-0b072f4f8fa4">
+        <Name>Processor Power Management Capabilities</Name>
+        <Severity>Informational</Severity>
+        <Description>Effective processor power management enables the computer to automatically balance performance and energy consumption.</Description>
+        <Details>
+          <Detail guid="faf9e6b5-0f59-442c-90b0-31b9bb24a9b4">
+            <Name>Group</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="021617e8-09b4-4ef4-80ca-f7c76291a950">
+            <Name>Index</Name>
+            <Value>13</Value>
+          </Detail>
+          <Detail guid="d3c55d82-09d5-41e6-923b-7fd53887df2a">
+            <Name>Idle State Count</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="14036425-2dcd-4129-a173-a4ee5fa79862">
+            <Name>Idle State Type</Name>
+            <Value>Micro Power Engine Plugin</Value>
+          </Detail>
+          <Detail guid="c118e17f-8532-491e-b8ec-c469083995d8">
+            <Name>Nominal Frequency (MHz)</Name>
+            <Value>2400</Value>
+          </Detail>
+          <Detail guid="adb2445a-ed2b-4a06-b114-77459a9d8dd1">
+            <Name>Maximum Performance Percentage</Name>
+            <Value>220</Value>
+          </Detail>
+          <Detail guid="0f8f7ad4-875e-4c39-9faa-71b48d1ff03c">
+            <Name>Lowest Performance Percentage</Name>
+            <Value>62</Value>
+          </Detail>
+          <Detail guid="788964a9-9ada-4009-9adc-00f85b40dc8f">
+            <Name>Lowest Throttle Percentage</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="0c3fb66a-c2cb-4d83-a63f-d11c83e20450">
+            <Name>Performance Controls Type</Name>
+            <Value>ACPI Collaborative Processor Performance Control</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="03d3ec20-2fd3-4580-8eb4-0b072f4f8fa4">
+        <Name>Processor Power Management Capabilities</Name>
+        <Severity>Informational</Severity>
+        <Description>Effective processor power management enables the computer to automatically balance performance and energy consumption.</Description>
+        <Details>
+          <Detail guid="faf9e6b5-0f59-442c-90b0-31b9bb24a9b4">
+            <Name>Group</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="021617e8-09b4-4ef4-80ca-f7c76291a950">
+            <Name>Index</Name>
+            <Value>14</Value>
+          </Detail>
+          <Detail guid="d3c55d82-09d5-41e6-923b-7fd53887df2a">
+            <Name>Idle State Count</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="14036425-2dcd-4129-a173-a4ee5fa79862">
+            <Name>Idle State Type</Name>
+            <Value>Micro Power Engine Plugin</Value>
+          </Detail>
+          <Detail guid="c118e17f-8532-491e-b8ec-c469083995d8">
+            <Name>Nominal Frequency (MHz)</Name>
+            <Value>2400</Value>
+          </Detail>
+          <Detail guid="adb2445a-ed2b-4a06-b114-77459a9d8dd1">
+            <Name>Maximum Performance Percentage</Name>
+            <Value>220</Value>
+          </Detail>
+          <Detail guid="0f8f7ad4-875e-4c39-9faa-71b48d1ff03c">
+            <Name>Lowest Performance Percentage</Name>
+            <Value>62</Value>
+          </Detail>
+          <Detail guid="788964a9-9ada-4009-9adc-00f85b40dc8f">
+            <Name>Lowest Throttle Percentage</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="0c3fb66a-c2cb-4d83-a63f-d11c83e20450">
+            <Name>Performance Controls Type</Name>
+            <Value>ACPI Collaborative Processor Performance Control</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+      <LogEntry guid="03d3ec20-2fd3-4580-8eb4-0b072f4f8fa4">
+        <Name>Processor Power Management Capabilities</Name>
+        <Severity>Informational</Severity>
+        <Description>Effective processor power management enables the computer to automatically balance performance and energy consumption.</Description>
+        <Details>
+          <Detail guid="faf9e6b5-0f59-442c-90b0-31b9bb24a9b4">
+            <Name>Group</Name>
+            <Value>0</Value>
+          </Detail>
+          <Detail guid="021617e8-09b4-4ef4-80ca-f7c76291a950">
+            <Name>Index</Name>
+            <Value>15</Value>
+          </Detail>
+          <Detail guid="d3c55d82-09d5-41e6-923b-7fd53887df2a">
+            <Name>Idle State Count</Name>
+            <Value>11</Value>
+          </Detail>
+          <Detail guid="14036425-2dcd-4129-a173-a4ee5fa79862">
+            <Name>Idle State Type</Name>
+            <Value>Micro Power Engine Plugin</Value>
+          </Detail>
+          <Detail guid="c118e17f-8532-491e-b8ec-c469083995d8">
+            <Name>Nominal Frequency (MHz)</Name>
+            <Value>2400</Value>
+          </Detail>
+          <Detail guid="adb2445a-ed2b-4a06-b114-77459a9d8dd1">
+            <Name>Maximum Performance Percentage</Name>
+            <Value>220</Value>
+          </Detail>
+          <Detail guid="0f8f7ad4-875e-4c39-9faa-71b48d1ff03c">
+            <Name>Lowest Performance Percentage</Name>
+            <Value>62</Value>
+          </Detail>
+          <Detail guid="788964a9-9ada-4009-9adc-00f85b40dc8f">
+            <Name>Lowest Throttle Percentage</Name>
+            <Value>4</Value>
+          </Detail>
+          <Detail guid="0c3fb66a-c2cb-4d83-a63f-d11c83e20450">
+            <Name>Performance Controls Type</Name>
+            <Value>ACPI Collaborative Processor Performance Control</Value>
+          </Detail>
+        </Details>
+      </LogEntry>
+    </AnalysisLog>
+  </Troubleshooter>
+  <Troubleshooter guid="6ff333f5-43e4-4c08-8988-120f93e3463a">
+    <Name>Device Drivers</Name>
+    <AnalysisLog>
+      <LogEntry guid="326fb9d3-85d4-4975-a922-f74e71c12360">
+        <Name>Analysis Success</Name>
+        <Severity>Informational</Severity>
+        <Description>Analysis was successful. No energy efficiency problems were found.  No information was returned.</Description>
+      </LogEntry>
+    </AnalysisLog>
+  </Troubleshooter>
+</EnergyReport>

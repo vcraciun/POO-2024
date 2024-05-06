@@ -1,0 +1,1207 @@
+FATAL 2023-Oct-04 11:10:20.000969 [00007878] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-04 11:10:21.005154 [00007878] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 11:10:23.586006 [00007878] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 11:10:37.436337 [0000353c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 11:10:37.440928 [00004b24] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 11:10:37.442190 [000088d0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 11:12:38.054369 [00001ad8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 11:12:38.061621 [0000616c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 11:12:40.071416 [0000353c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 12:55:50.568078 [000088d0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 12:55:51.303266 [000088d0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 13:05:34.253498 [0000577c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 13:05:34.255491 [000088d0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 13:05:34.258485 [0000141c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 13:05:34.266464 [00006c2c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 13:05:34.266464 [00005b64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 15:59:33.420312 [00004450] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-04 15:59:34.430536 [00004450] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 15:59:36.337094 [00004450] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 15:59:36.376985 [00004450] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 15:59:36.376985 [00004450] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 15:59:36.376985 [00004450] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 15:59:36.376985 [00004450] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 15:59:36.377983 [00004450] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 15:59:36.377983 [00004450] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 15:59:36.378984 [00004450] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 15:59:36.378984 [00004450] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 15:59:36.379977 [00004450] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 15:59:36.379977 [00004450] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 15:59:36.379977 [00004450] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 15:59:36.379977 [00004450] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 15:59:36.380975 [00004450] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 15:59:36.380975 [00004450] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 15:59:36.380975 [00004450] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 15:59:36.381972 [00004450] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 16:00:39.534467 [00001ac4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 16:00:39.540685 [00001b18] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 16:00:39.543693 [00006b08] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 16:00:39.547298 [000072d4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 16:00:39.549309 [00001b58] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 16:00:40.500760 [00008cd0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 16:23:22.033308 [00004b24] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 17:02:04.154748 [00006c2c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 17:02:04.165718 [0000141c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 21:27:41.563290 [000095e8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 21:27:41.565285 [00006a60] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 21:27:41.565285 [000094d8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 21:27:41.566282 [00005b64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 22:33:31.069792 [000063e0] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-04 22:33:32.079873 [000063e0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 22:33:34.189666 [000063e0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 22:33:34.272418 [000063e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 22:33:34.274413 [000063e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 22:33:34.274413 [000063e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 22:33:34.274413 [000063e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 22:33:34.274413 [000063e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 22:33:34.274413 [000063e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 22:33:34.275410 [000063e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 22:33:34.275410 [000063e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 22:33:34.275410 [000063e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 22:33:34.275410 [000063e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 22:33:34.276408 [000063e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 22:33:34.276408 [000063e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 22:33:34.276408 [000063e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 22:33:34.276408 [000063e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 22:33:34.276408 [000063e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 22:33:34.278322 [000063e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-04 22:34:20.342339 [00001ad8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 22:34:20.347348 [00001cd8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 22:34:20.379756 [0000616c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 22:34:20.383747 [00001478] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 22:34:20.385747 [00001c04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 22:34:20.386735 [00001cf0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-04 22:34:21.822579 [000094d8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 01:33:09.421196 [00004560] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-05 01:33:10.432821 [00004560] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 01:33:12.028160 [00004560] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 01:33:12.065561 [00004560] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 01:33:12.065561 [00004560] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 01:33:12.065561 [00004560] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 01:33:12.065561 [00004560] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 01:33:12.065561 [00004560] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 01:33:12.066558 [00004560] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 01:33:12.066558 [00004560] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 01:33:12.066558 [00004560] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 01:33:12.067555 [00004560] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 01:34:21.243278 [00001ac4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 01:34:21.253755 [00001cf0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 01:34:21.254757 [00001c04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 01:34:21.262764 [000072d4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 01:34:21.366878 [00005a7c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 01:40:51.684786 [00003bf0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 01:40:51.690920 [000039f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 01:40:51.691930 [00004b24] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 01:40:51.691930 [00006c2c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 01:40:51.692932 [00004c90] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 12:25:56.838189 [00006330] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-05 12:25:57.843402 [00006330] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 12:26:00.258273 [00006330] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 12:26:00.319111 [00006330] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:26:00.320109 [00006330] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:26:00.320109 [00006330] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:26:00.321117 [00006330] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:26:00.321117 [00006330] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:26:00.321117 [00006330] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:26:00.321117 [00006330] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:26:00.321117 [00006330] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:26:00.321117 [00006330] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:26:00.322623 [00006330] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:26:00.322623 [00006330] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:26:00.322623 [00006330] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:26:00.323636 [00006330] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:26:00.324624 [00006330] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:26:57.112819 [00002ea4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 12:26:57.119805 [00001478] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 12:26:57.126787 [00001cf0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 12:27:02.597730 [0000616c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 12:55:54.782621 [0000b7a0] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-05 12:55:55.794839 [0000b7a0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 12:55:57.558416 [0000b7a0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 12:55:57.584377 [0000b7a0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:55:57.584377 [0000b7a0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:55:57.585346 [0000b7a0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:55:57.585346 [0000b7a0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:55:57.585346 [0000b7a0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:55:57.585346 [0000b7a0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:55:57.585346 [0000b7a0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:55:57.585346 [0000b7a0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:55:57.586343 [0000b7a0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 12:56:57.376113 [00001c04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 12:56:57.380103 [00001ac4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 12:56:57.384092 [000072d4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 12:56:57.386090 [00009a40] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 12:56:57.388079 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 12:56:57.390074 [00001cec] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 12:56:58.889124 [00006eac] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 12:57:01.018020 [00001a40] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 14:01:07.725643 [000094d8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 14:01:07.731633 [000095e8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 14:20:19.547081 [00005a7c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 14:20:19.547081 [000088d0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 14:20:23.167503 [00004b24] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 14:20:23.183283 [00008210] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 15:41:25.004016 [0000353c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 15:41:25.014806 [00004b24] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 17:16:01.029310 [0000be2c] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-05 17:16:02.031994 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 17:16:04.638858 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 17:16:04.701867 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 17:16:04.703871 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 17:16:04.703871 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 17:16:04.703871 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 17:16:04.704859 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 17:16:04.704859 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 17:16:04.704859 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 17:16:04.704859 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 17:16:04.705993 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 17:16:04.705993 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 17:16:04.705993 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 17:16:04.706989 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 17:16:04.706989 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 17:16:04.706989 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 17:16:04.707987 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 17:16:04.707987 [0000be2c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 17:16:58.328985 [000069f0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 17:16:58.330978 [00001478] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 17:16:58.336512 [0000b9f0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 17:16:58.598527 [000094d8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 17:30:51.324452 [00005b64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 17:30:51.636117 [00003bf0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 17:30:51.637133 [000088d0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 17:30:51.644116 [0000353c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 18:44:00.766956 [00009a88] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 23:46:00.544830 [0000beb4] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-05 23:46:01.551833 [0000beb4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 23:46:03.388621 [0000beb4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 23:46:03.476020 [0000beb4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 23:46:03.477049 [0000beb4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 23:46:03.477049 [0000beb4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 23:46:03.477049 [0000beb4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 23:46:03.477049 [0000beb4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 23:46:03.478571 [0000beb4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 23:46:03.478571 [0000beb4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 23:46:03.478571 [0000beb4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 23:46:03.478571 [0000beb4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 23:46:03.479572 [0000beb4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 23:46:03.479572 [0000beb4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 23:46:03.479572 [0000beb4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 23:46:03.479572 [0000beb4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 23:46:03.480557 [0000beb4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-05 23:46:59.660204 [00001cec] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 23:46:59.666188 [00006b08] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 23:46:59.666188 [000069f0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 23:46:59.667185 [00001cf0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 23:46:59.668181 [00001cd8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-05 23:47:02.457942 [0000577c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 00:12:03.138788 [00004c90] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 01:32:52.710051 [00005b64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 01:32:52.712384 [00006a60] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 01:55:57.889509 [0000bd50] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-06 01:55:58.899607 [0000bd50] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 01:56:01.517135 [0000bd50] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 01:56:01.600393 [0000bd50] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 01:56:01.601417 [0000bd50] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 01:56:01.601417 [0000bd50] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 01:56:01.601417 [0000bd50] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 01:56:01.601417 [0000bd50] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 01:56:01.602383 [0000bd50] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 01:56:01.602383 [0000bd50] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 01:56:01.602383 [0000bd50] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 01:56:01.602383 [0000bd50] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 01:56:01.602383 [0000bd50] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 01:56:01.603383 [0000bd50] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 01:56:01.603383 [0000bd50] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 01:56:01.605375 [0000bd50] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 01:57:00.486213 [00009a40] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 01:57:00.492405 [00006b08] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 01:57:00.496422 [0000b9f0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 01:57:01.542060 [00006a60] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 01:57:01.555447 [00001cbc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 03:40:58.687134 [00000c98] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 03:40:58.688129 [0000577c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 03:40:58.698102 [00008778] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 03:40:58.700097 [00005a7c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 03:40:58.701095 [00006a60] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 03:40:58.702095 [00001cbc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 06:15:56.180750 [00009ad0] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-06 06:15:57.182908 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 06:15:59.038016 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 06:15:59.082935 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 06:15:59.083924 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 06:15:59.083924 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 06:15:59.084922 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 06:15:59.084922 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 06:15:59.084922 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 06:15:59.084922 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 06:15:59.084922 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 06:15:59.084922 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 06:15:59.085918 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 06:15:59.085918 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 06:15:59.085918 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 06:15:59.085918 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 06:15:59.085918 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 06:15:59.086925 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 06:15:59.086925 [00009ad0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 06:17:01.894273 [00001ac4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 06:17:01.900257 [00006024] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 06:17:01.900257 [00001c04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 06:17:01.901254 [0000b9f0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 06:17:01.903267 [00001cec] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 06:17:01.904246 [00001a40] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 09:50:46.429002 [00001cbc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 09:50:46.436099 [0000141c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 09:50:46.438228 [00006c2c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 09:50:46.442556 [00003bf0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 09:50:46.447545 [00008778] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 09:50:46.448542 [0000577c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 11:26:02.734282 [000087e4] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-06 11:26:03.746727 [000087e4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 11:26:05.797075 [000087e4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 11:26:05.867188 [000087e4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:26:05.868189 [000087e4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:26:05.868189 [000087e4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:26:05.868189 [000087e4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:26:05.868189 [000087e4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:26:05.868189 [000087e4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:26:05.869184 [000087e4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:26:05.869184 [000087e4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:26:05.869184 [000087e4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:26:05.869184 [000087e4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:26:05.869184 [000087e4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:26:05.869184 [000087e4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:26:05.870180 [000087e4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:26:05.870180 [000087e4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:26:05.871147 [000087e4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:27:03.549293 [00001cdc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 11:27:03.552294 [00001c04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 11:27:03.566273 [000072d4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 11:27:06.563312 [0000577c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 11:27:10.222853 [00001cd8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:27:10.223851 [00001cd8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 11:27:10.250777 [00001cd8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 11:27:10.299176 [0000577c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 13:05:10.775592 [00001cdc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 13:20:58.084276 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 13:20:58.140130 [00003b58] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 13:20:58.140130 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 13:20:59.613511 [00006b08] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 15:36:07.921622 [00009b64] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-06 15:36:08.929934 [00009b64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 15:36:11.054170 [00009b64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 15:36:11.179396 [00009b64] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 15:36:11.180394 [00009b64] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 15:36:11.182394 [00009b64] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 15:36:11.183387 [00009b64] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 15:36:11.183387 [00009b64] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 15:36:11.184392 [00009b64] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 15:36:11.184392 [00009b64] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 15:36:11.184392 [00009b64] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 15:36:11.184392 [00009b64] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 15:36:11.185380 [00009b64] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 15:36:11.185380 [00009b64] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 15:36:11.185380 [00009b64] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 15:36:11.185380 [00009b64] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 15:36:11.186377 [00009b64] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 15:36:11.187389 [00009b64] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 15:37:04.938043 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 15:37:04.948014 [00006b08] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 15:37:04.950010 [00001cd8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 15:37:04.952003 [00003b58] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 15:37:04.953997 [0000b4a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 15:37:05.647169 [00006c2c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 16:07:55.313868 [0000482c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 16:07:55.329345 [00005a7c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 16:07:55.332400 [000033a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 16:07:55.334518 [00004b24] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 19:36:07.358943 [000048c0] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-06 19:36:08.365743 [000048c0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 19:36:10.592829 [000048c0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 19:36:10.692082 [000048c0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 19:36:10.692082 [000048c0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 19:36:10.693073 [000048c0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 19:36:10.693073 [000048c0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 19:36:10.693073 [000048c0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 19:36:10.694072 [000048c0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 19:36:10.694072 [000048c0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 19:36:10.694072 [000048c0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 19:36:10.694072 [000048c0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 19:36:10.695067 [000048c0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 19:36:10.695067 [000048c0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 19:36:10.695067 [000048c0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 19:36:10.699055 [000048c0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 19:37:06.358933 [0000bf04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 19:37:06.362925 [00009a40] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 19:37:06.363922 [00006024] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 19:37:06.366932 [00006b08] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 19:37:06.367911 [0000b4a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 19:37:06.575403 [00004c90] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 20:33:26.683337 [00004b24] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 20:33:26.689317 [00004c90] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 20:33:30.038666 [00003bf0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 20:33:30.039663 [000033a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 20:33:30.044651 [0000482c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 20:33:30.044651 [0000353c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 20:33:30.045647 [00005a7c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 20:33:30.576971 [000007f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 23:26:07.348906 [0000baac] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-06 23:26:08.354353 [0000baac] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 23:26:10.368393 [0000baac] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 23:26:10.422199 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:26:10.423203 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:26:10.423203 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:26:10.424202 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:26:10.424202 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:26:10.424202 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:26:10.424202 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:26:10.424202 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:26:10.425209 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:26:10.425209 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:26:10.426188 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:26:10.426188 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:26:10.426188 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:26:10.427186 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:26:10.427186 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:26:10.428186 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:26:10.429180 [0000baac] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-06 23:27:07.689556 [00006024] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 23:27:07.691551 [00001cd8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 23:27:07.695549 [00001cdc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 23:27:07.700547 [0000bc9c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 23:27:07.700547 [00001cec] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-06 23:27:12.795097 [00005b64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 00:00:53.669190 [00006c2c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 02:16:07.962707 [0000a2cc] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-07 02:16:08.973780 [0000a2cc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 02:16:11.013040 [0000a2cc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 02:16:11.052940 [0000a2cc] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 02:16:11.052940 [0000a2cc] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 02:16:11.053938 [0000a2cc] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 02:16:11.053938 [0000a2cc] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 02:16:11.053938 [0000a2cc] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 02:16:11.053938 [0000a2cc] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 02:16:11.054936 [0000a2cc] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 02:16:11.054936 [0000a2cc] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 02:16:11.054936 [0000a2cc] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 02:16:11.054936 [0000a2cc] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 02:16:11.062988 [0000a2cc] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 02:17:08.622670 [00001a40] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 02:17:08.634640 [00001cec] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 02:17:12.798857 [00008cd0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 04:26:08.946227 [0000c1f8] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-07 04:26:09.950718 [0000c1f8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 04:26:11.957109 [0000c1f8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 04:26:12.000995 [0000c1f8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 04:26:12.000995 [0000c1f8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 04:26:12.000995 [0000c1f8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 04:26:12.001991 [0000c1f8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 04:26:12.001991 [0000c1f8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 04:26:12.001991 [0000c1f8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 04:26:12.001991 [0000c1f8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 04:26:12.001991 [0000c1f8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 04:26:12.009777 [0000c1f8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 04:27:09.440450 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 04:27:09.447892 [00001ac4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 04:27:09.452334 [00001cd8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 04:27:09.453341 [00002360] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 04:27:09.462209 [000039f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 04:27:12.476267 [000069f0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 04:27:12.477264 [000069f0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 04:27:12.497208 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 04:27:12.782116 [000039f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 06:16:08.589656 [00004590] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-07 06:16:09.602642 [00004590] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 06:16:11.604487 [00004590] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 06:16:11.645408 [00004590] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 06:16:11.646377 [00004590] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 06:16:11.646377 [00004590] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 06:16:11.647375 [00004590] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 06:16:11.648377 [00004590] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 06:16:11.648377 [00004590] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 06:16:11.648377 [00004590] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 06:16:11.648377 [00004590] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 06:16:11.650302 [00004590] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 06:17:10.108364 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 06:17:10.113351 [00001a40] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 06:17:10.121362 [0000bc9c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 06:17:12.662813 [000094d8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 09:43:56.857577 [000088d0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 09:43:56.858574 [0000482c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 10:16:12.398581 [00008220] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-07 10:16:13.404413 [00008220] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 10:16:15.481702 [00008220] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 10:16:15.526324 [00008220] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 10:16:15.527323 [00008220] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 10:16:15.527323 [00008220] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 10:16:15.527323 [00008220] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 10:16:15.528348 [00008220] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 10:16:15.528348 [00008220] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 10:16:15.528348 [00008220] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 10:16:15.528348 [00008220] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 10:16:15.528348 [00008220] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 10:16:15.529321 [00008220] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 10:16:15.531510 [00008220] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 10:17:11.413037 [00003b58] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 10:17:11.415810 [00001ac4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 10:17:11.420161 [0000b4a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 10:17:11.420161 [00006024] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 10:17:13.853329 [000039f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 15:56:15.369734 [0000651c] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-07 15:56:16.379571 [0000651c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 15:56:18.365457 [0000651c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 15:56:18.408918 [0000651c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 15:56:18.409853 [0000651c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 15:56:18.409853 [0000651c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 15:56:18.409853 [0000651c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 15:56:18.409853 [0000651c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 15:56:18.410878 [0000651c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 15:56:18.410878 [0000651c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 15:56:18.410878 [0000651c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 15:56:18.419023 [0000651c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 15:57:13.148324 [00001cdc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 15:57:13.158296 [00006b08] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 15:57:13.159293 [0000bf04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 15:57:13.197192 [00008cd0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 19:56:15.764445 [0000c134] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-07 19:56:16.774422 [0000c134] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 19:56:18.798715 [0000c134] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 19:56:18.843124 [0000c134] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 19:56:18.844122 [0000c134] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 19:56:18.844122 [0000c134] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 19:56:18.844122 [0000c134] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 19:56:18.845119 [0000c134] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 19:56:18.846132 [0000c134] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 19:56:18.846132 [0000c134] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 19:56:18.846132 [0000c134] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 19:56:18.855081 [0000c134] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 19:57:14.480364 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 19:57:14.493330 [0000bc9c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 19:57:14.496320 [00007a94] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 19:57:14.498318 [00001ac4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 19:57:14.499315 [0000b4a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 20:20:52.310209 [000033a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 23:36:15.427083 [00005328] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-07 23:36:16.432677 [00005328] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 23:36:18.451976 [00005328] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 23:36:18.485123 [00005328] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 23:36:18.485123 [00005328] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 23:36:18.486148 [00005328] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 23:36:18.486148 [00005328] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 23:36:18.486148 [00005328] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 23:36:18.486148 [00005328] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 23:36:18.486148 [00005328] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 23:36:18.486148 [00005328] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 23:36:18.494098 [00005328] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 23:37:15.757159 [00006024] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 23:37:15.763760 [00006820] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 23:37:15.763760 [00003b58] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 23:37:17.444156 [0000353c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-07 23:37:21.815297 [00000758] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 23:37:21.815297 [00000758] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-07 23:37:21.863686 [00006820] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 02:43:38.346141 [00003bf0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 02:43:38.349133 [000047e0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 02:43:38.356117 [00006a60] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 02:43:44.976930 [00008210] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 05:36:25.450224 [00004828] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-08 05:36:26.457869 [00004828] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 05:36:28.450945 [00004828] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 05:36:28.513370 [00004828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 05:36:28.513370 [00004828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 05:36:28.514367 [00004828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 05:36:28.514367 [00004828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 05:36:28.514367 [00004828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 05:36:28.514367 [00004828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 05:36:28.514367 [00004828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 05:36:28.515365 [00004828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 05:36:28.515365 [00004828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 05:36:28.516363 [00004828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 05:36:28.516363 [00004828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 05:36:28.518358 [00004828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 05:37:17.803837 [00000758] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 05:37:17.804837 [00006b08] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 05:37:17.808825 [00006024] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 05:37:17.810819 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 05:37:24.307155 [00006c2c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 07:13:38.666784 [00004c90] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 07:13:38.666784 [00006a60] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 07:13:42.174872 [0000482c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 07:13:42.177377 [000039f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 08:00:49.561268 [00006a60] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 08:00:49.564260 [0000482c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 08:00:49.763745 [00006c2c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 09:06:19.437477 [0000b188] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-08 09:06:20.446957 [0000b188] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 09:06:22.458715 [0000b188] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 09:06:22.517148 [0000b188] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 09:06:22.518146 [0000b188] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 09:06:22.518146 [0000b188] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 09:06:22.518146 [0000b188] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 09:06:22.518146 [0000b188] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 09:06:22.519143 [0000b188] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 09:06:22.519143 [0000b188] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 09:06:22.519143 [0000b188] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 09:06:22.519143 [0000b188] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 09:06:22.519143 [0000b188] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 09:06:22.520140 [0000b188] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 09:06:22.520140 [0000b188] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 09:06:22.520140 [0000b188] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 09:06:22.520140 [0000b188] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 09:06:22.520140 [0000b188] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 09:06:22.523133 [0000b188] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 09:07:18.953988 [0000804c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 09:07:18.957976 [00001ac4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 09:07:18.958973 [00007a94] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 09:07:18.960969 [00006820] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 12:46:24.655461 [00005c30] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-08 12:46:25.659076 [00005c30] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 12:46:27.687587 [00005c30] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 12:46:27.734494 [00005c30] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 12:46:27.735492 [00005c30] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 12:46:27.735492 [00005c30] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 12:46:27.735492 [00005c30] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 12:46:27.735492 [00005c30] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 12:46:27.735492 [00005c30] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 12:46:27.736486 [00005c30] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 12:46:27.738483 [00005c30] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 12:47:20.083660 [0000bc9c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 12:47:20.090639 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 12:47:20.127054 [00007a94] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 12:47:20.127054 [00003b58] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 12:47:20.129048 [00006820] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 12:47:20.130045 [00003dcc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 12:47:21.338528 [000007f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 16:26:26.705156 [0000b78c] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-08 16:26:27.711301 [0000b78c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 16:26:29.706032 [0000b78c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 16:26:29.751453 [0000b78c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 16:26:29.752479 [0000b78c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 16:26:29.752479 [0000b78c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 16:26:29.752479 [0000b78c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 16:26:29.752479 [0000b78c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 16:26:29.752479 [0000b78c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 16:26:29.753477 [0000b78c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 16:26:29.753477 [0000b78c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 16:26:29.754474 [0000b78c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 16:27:21.352137 [00003dcc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 16:27:21.360114 [00009ac0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 16:27:21.364080 [00004aa4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 16:27:21.365094 [00006820] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 16:27:23.297907 [00009ac0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.670264 [00001cbc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.686836 [000007f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.704827 [00005a7c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.710320 [00001340] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.712318 [00008778] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.713315 [00000c98] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.718823 [00008178] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.722816 [00002200] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.725808 [0000141c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.726805 [0000482c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.726805 [00008cd0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.726805 [00006eac] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.729306 [00009a88] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.729306 [00008210] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.730304 [000011a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.730304 [000067e0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 18:59:15.731304 [000095e8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 20:49:34.102733 [00001c5c] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-08 20:49:35.117297 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 20:49:36.823109 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 20:49:36.894074 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.894074 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.894074 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.895073 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.895073 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.895073 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.895073 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.895073 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.896070 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.896070 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.896070 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.896070 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.896070 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.896070 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.896070 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.897068 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.897068 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.897068 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.897068 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.897068 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.897068 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.898065 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.898065 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.898065 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.898065 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.898065 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:49:36.899096 [00001c5c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-08 20:50:16.980805 [00008644] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 20:50:16.987295 [00007698] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 20:50:30.662423 [00005e04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 20:50:30.666458 [00003dcc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 20:50:30.668464 [0000b4a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 20:50:30.668464 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 20:50:34.195857 [00004b24] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 21:12:24.043544 [0000482c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-08 21:12:24.045560 [00005b64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 09:18:34.472187 [0000c5c4] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-09 09:18:35.477728 [0000c5c4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 09:18:37.472791 [0000c5c4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 09:18:37.564060 [0000c5c4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 09:18:37.565058 [0000c5c4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 09:18:37.565058 [0000c5c4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 09:18:37.565058 [0000c5c4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 09:18:37.566055 [0000c5c4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 09:18:37.566055 [0000c5c4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 09:18:37.566055 [0000c5c4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 09:18:37.567052 [0000c5c4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 09:18:37.567052 [0000c5c4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 09:18:37.567052 [0000c5c4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 09:18:37.568049 [0000c5c4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 09:19:18.539273 [00003b58] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 09:19:18.546251 [00006820] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 09:19:18.547249 [00009ac0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 09:19:18.550242 [00003dcc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 09:19:21.130013 [0000804c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 09:19:21.152954 [0000804c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 09:19:22.196647 [000039f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 10:18:17.148997 [00001300] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-09 10:18:18.150778 [00001300] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 10:18:20.105535 [00001300] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 10:18:20.135959 [00001300] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 10:18:20.136956 [00001300] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 10:18:20.136956 [00001300] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 10:18:20.136956 [00001300] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 10:18:20.136956 [00001300] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 10:18:20.136956 [00001300] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 10:18:20.136956 [00001300] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 10:18:20.137954 [00001300] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 10:18:20.139173 [00001300] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 10:19:18.948232 [00009ac0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 10:19:18.960204 [00005e04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 10:19:18.963196 [0000503c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 10:19:18.965189 [0000804c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 10:19:22.300709 [000039f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 11:07:25.923740 [000047e0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 14:48:28.524775 [000083a8] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-09 14:48:29.541058 [000083a8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 14:48:31.415768 [000083a8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 14:48:31.456659 [000083a8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 14:48:31.457657 [000083a8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 14:48:31.457657 [000083a8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 14:48:31.457657 [000083a8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 14:48:31.457657 [000083a8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 14:48:31.458668 [000083a8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 14:48:31.458668 [000083a8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 14:48:31.458668 [000083a8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 14:48:31.459656 [000083a8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 14:48:31.460649 [000083a8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 14:49:20.372871 [00006820] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 14:49:20.378853 [00003b58] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 14:49:20.379851 [0000503c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 14:49:20.383841 [0000bc9c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 14:49:20.385834 [0000804c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 14:49:20.386832 [0000b4a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 16:24:26.705109 [000007f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 16:24:26.713090 [00004b24] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 16:24:26.713090 [0000141c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 16:24:26.718068 [00002c8c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 16:24:31.892059 [00004b24] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 16:24:31.894054 [000007f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 18:39:46.375248 [00008b38] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-09 18:39:47.394327 [00008b38] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 18:39:49.981450 [00008b38] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 18:39:50.076793 [00008b38] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 18:39:50.076793 [00008b38] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 18:39:50.076793 [00008b38] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 18:39:50.076793 [00008b38] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 18:39:50.077782 [00008b38] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 18:39:50.077782 [00008b38] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 18:39:50.077782 [00008b38] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 18:39:50.078779 [00008b38] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 18:39:50.078779 [00008b38] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 18:39:50.079777 [00008b38] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 18:39:50.079777 [00008b38] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 18:39:50.079777 [00008b38] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 18:39:50.079777 [00008b38] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 18:39:50.080775 [00008b38] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 18:40:31.957185 [00005e04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 18:40:31.962685 [0000b4a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 18:40:31.963703 [00004aa4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 18:40:31.968699 [00006820] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 18:40:31.972689 [0000bc9c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 18:40:32.104997 [000039f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 18:46:56.149357 [000047e0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 18:46:56.167986 [0000353c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 18:46:56.169453 [00004b24] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 18:46:56.170917 [00005b64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 18:46:56.411833 [000007f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 19:00:01.057900 [00008778] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 21:35:49.497987 [0000141c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 21:38:58.621846 [00006c2c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 21:38:58.624838 [00002474] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 21:38:58.641798 [000095e8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 21:38:58.642795 [00000c98] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 21:38:58.644297 [000011a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 21:38:58.644297 [0000482c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 21:38:58.645298 [00008cd0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 21:38:58.645298 [000088d0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 21:38:58.649288 [00008210] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 22:12:37.709173 [00002628] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-09 22:12:38.720175 [00002628] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 22:12:40.434547 [00002628] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 22:12:40.488941 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.489981 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.489981 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.489981 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.489981 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.489981 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.490979 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.490979 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.490979 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.490979 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.490979 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.490979 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.491978 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.491978 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.491978 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.491978 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.491978 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.491978 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.491978 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.492976 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.492976 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.492976 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.492976 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.492976 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:12:40.492976 [00002628] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-09 22:13:32.526372 [00005a64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 22:13:32.532510 [00006024] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 22:13:32.535503 [00005e04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 22:13:32.537515 [0000921c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 22:13:32.540031 [0000804c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 22:13:32.540031 [00007d64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-09 22:13:32.823629 [00009a88] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 00:16:38.307858 [00006a60] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 00:17:53.311206 [000067e0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 00:17:53.312204 [0000353c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 00:17:53.317192 [00008cd0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 00:17:53.319185 [00005b64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:52:39.900832 [00008270] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-10 01:52:40.911179 [00008270] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:52:42.484195 [00008270] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:52:42.525054 [00008270] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 01:52:42.525054 [00008270] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 01:52:42.526051 [00008270] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 01:52:42.526051 [00008270] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 01:52:42.526051 [00008270] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 01:52:42.526051 [00008270] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 01:52:42.526051 [00008270] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 01:52:42.526051 [00008270] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 01:52:42.527049 [00008270] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 01:52:42.527049 [00008270] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 01:52:42.527049 [00008270] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 01:52:42.527049 [00008270] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 01:52:42.527049 [00008270] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 01:52:42.528046 [00008270] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 01:53:33.701044 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:53:33.705034 [00005e04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:53:33.707028 [0000921c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:53:33.710021 [0000b4a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:53:34.774247 [00001340] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:53:39.348842 [00006024] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 01:53:39.375238 [00006024] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 01:53:39.407168 [00006024] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:54:19.667969 [00001340] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:54:19.688915 [000094d8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:54:19.702386 [000095e8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:54:19.703383 [00008cd0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:54:19.704380 [000011a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:54:19.711363 [00009a88] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:54:19.712359 [0000482c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:54:19.715353 [00006eac] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:54:19.726322 [00001cbc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:54:19.727319 [00004b24] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:54:19.727319 [00005b64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:54:19.727319 [00006a60] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 01:54:19.727319 [000039f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 05:58:08.949368 [00002828] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-10 05:58:09.967478 [00002828] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 05:58:11.740162 [00002828] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 05:58:11.814497 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.815498 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.815498 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.815498 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.815498 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.815498 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.815498 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.816498 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.816498 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.816498 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.816498 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.816498 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.816498 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.817493 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.817493 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.817493 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.817493 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.817493 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.817493 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.817493 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:11.818492 [00002828] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 05:58:59.824301 [00007164] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 05:58:59.830287 [00006024] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 05:58:59.833300 [00005e04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 05:58:59.837269 [0000921c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 05:58:59.837269 [00007a94] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 05:58:59.838336 [000079ec] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 05:59:05.886641 [00005a7c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 10:08:00.251989 [0000cc84] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-10 10:08:01.257018 [0000cc84] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 10:08:03.020002 [0000cc84] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 10:08:03.048473 [0000cc84] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 10:08:03.048473 [0000cc84] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 10:08:03.048473 [0000cc84] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 10:08:03.048473 [0000cc84] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 10:08:03.049471 [0000cc84] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 10:08:03.049471 [0000cc84] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 10:08:03.049471 [0000cc84] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 10:08:03.049471 [0000cc84] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 10:08:03.051092 [0000cc84] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 10:09:01.248768 [00006024] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 10:09:01.260732 [00007a94] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 10:09:01.262726 [00005a64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 10:09:01.264722 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 10:09:01.567461 [00002c8c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 12:42:41.636726 [00006eac] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 12:42:41.640715 [000095e8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 13:00:54.948457 [00004c90] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 13:00:54.950969 [000007f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 13:00:54.956950 [00001cbc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 13:00:55.098892 [00008178] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 14:44:43.802646 [00004c14] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-10 14:44:44.809492 [00004c14] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 14:44:46.995232 [00004c14] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 14:44:47.052151 [00004c14] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 14:44:47.053148 [00004c14] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 14:44:47.053148 [00004c14] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 14:44:47.053148 [00004c14] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 14:44:47.053148 [00004c14] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 14:44:47.054142 [00004c14] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 14:44:47.054142 [00004c14] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 14:44:47.054142 [00004c14] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 14:44:47.054142 [00004c14] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 14:44:47.055142 [00004c14] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 14:44:47.055142 [00004c14] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 14:44:47.055142 [00004c14] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 14:44:47.055142 [00004c14] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 14:44:47.055142 [00004c14] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 14:44:47.056139 [00004c14] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 14:44:47.057105 [00004c14] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 14:45:24.969192 [00009ac0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 14:45:24.983677 [0000921c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 14:45:24.985675 [00005e04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 14:45:24.987669 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 14:45:24.989178 [00003b58] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 14:45:25.034532 [00004c90] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 14:45:25.796054 [000043e4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 14:45:25.803140 [00007698] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 14:45:25.806325 [00007de8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 16:39:27.847717 [000088d0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 22:01:38.233635 [000080a4] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-10 22:01:39.247311 [000080a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 22:01:41.246003 [000080a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 22:01:41.326850 [000080a4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 22:01:41.326850 [000080a4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 22:01:41.327848 [000080a4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 22:01:41.327848 [000080a4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 22:01:41.327848 [000080a4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 22:01:41.328814 [000080a4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 22:01:41.328814 [000080a4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 22:01:41.328814 [000080a4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 22:01:41.328814 [000080a4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 22:01:41.329812 [000080a4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 22:01:41.329812 [000080a4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 22:01:41.329812 [000080a4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 22:01:41.331807 [000080a4] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 22:02:24.613236 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 22:02:24.617225 [00006024] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 22:02:24.625245 [00009ac0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 22:02:24.627200 [0000b4a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 22:02:24.627200 [000079f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 22:02:25.849050 [0000141c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 22:11:24.247924 [00001cbc] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 22:11:24.247924 [00008178] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 22:11:24.273855 [000033a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 22:11:24.275851 [00000c98] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 22:11:24.276848 [000007f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 22:11:24.277847 [00008210] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 22:11:24.282831 [00009354] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 23:51:34.308358 [00006808] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-10 23:51:35.314099 [00006808] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 23:51:37.309904 [00006808] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 23:51:37.428111 [00006808] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 23:51:37.428111 [00006808] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 23:51:37.429108 [00006808] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 23:51:37.429108 [00006808] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 23:51:37.429108 [00006808] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 23:51:37.430149 [00006808] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 23:51:37.430149 [00006808] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 23:51:37.430149 [00006808] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 23:51:37.430149 [00006808] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 23:51:37.430149 [00006808] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 23:51:37.431148 [00006808] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 23:51:37.431148 [00006808] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 23:51:37.431148 [00006808] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 23:51:37.431148 [00006808] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 23:51:37.431148 [00006808] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 23:51:37.434511 [00006808] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-10 23:52:25.337906 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 23:52:25.342894 [0000bc9c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 23:52:25.349887 [00005e04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 23:52:25.350873 [00007164] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 23:52:25.353864 [00005a64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-10 23:52:28.675345 [000088d0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 02:55:50.766532 [000039f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 02:55:51.198011 [00006eac] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 02:55:51.199003 [00000c98] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 02:55:51.209944 [00004c90] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 02:55:51.211939 [0000482c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 07:11:38.214447 [000089b8] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-11 07:11:39.221164 [000089b8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 07:11:41.006373 [000089b8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 07:11:41.076849 [000089b8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:11:41.076849 [000089b8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:11:41.077847 [000089b8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:11:41.077847 [000089b8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:11:41.077847 [000089b8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:11:41.077847 [000089b8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:11:41.078844 [000089b8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:11:41.078844 [000089b8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:11:41.078844 [000089b8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:11:41.078844 [000089b8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:11:41.079841 [000089b8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:11:41.079841 [000089b8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:11:41.079841 [000089b8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:11:41.081159 [000089b8] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:12:27.681310 [0000cc24] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 07:12:27.691298 [000079ec] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 07:12:27.693501 [0000921c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 07:12:27.696891 [00007164] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 07:12:27.696891 [0000b6f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 07:12:29.023680 [00006c2c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 07:12:29.903929 [000079ec] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:12:29.915868 [000079ec] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:12:29.916865 [000079ec] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:12:29.917862 [000079ec] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 07:12:29.958764 [000079ec] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 07:12:32.642207 [00008210] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 08:00:51.692878 [000094d8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 08:00:51.706135 [000088d0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 08:00:51.706135 [00000c98] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 08:00:51.707167 [0000141c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 09:11:49.822115 [000097e0] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-11 09:11:50.829759 [000097e0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 09:11:52.621134 [000097e0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 09:11:52.661622 [000097e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 09:11:52.662667 [000097e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 09:11:52.662667 [000097e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 09:11:52.662667 [000097e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 09:11:52.662667 [000097e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 09:11:52.662667 [000097e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 09:11:52.663672 [000097e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 09:11:52.663672 [000097e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 09:11:52.663672 [000097e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 09:11:52.663672 [000097e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 09:11:52.663672 [000097e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 09:11:52.664617 [000097e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 09:11:52.664617 [000097e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 09:11:52.665614 [000097e0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 09:12:28.460548 [00005e04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 09:12:28.465024 [00006024] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 09:12:28.469014 [0000cc24] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 09:12:28.471008 [0000bc9c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 09:12:28.471008 [00002608] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 09:12:29.033655 [00009a88] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 11:48:43.940602 [000007f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 14:07:35.881722 [00001b88] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-11 14:07:36.895609 [00001b88] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 14:07:38.783941 [00001b88] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 14:07:38.856445 [00001b88] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 14:07:38.857442 [00001b88] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 14:07:38.857442 [00001b88] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 14:07:38.857442 [00001b88] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 14:07:38.857442 [00001b88] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 14:07:38.858440 [00001b88] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 14:07:38.858440 [00001b88] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 14:07:38.858440 [00001b88] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 14:07:38.858440 [00001b88] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 14:07:38.859437 [00001b88] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 14:07:38.860550 [00001b88] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 14:07:49.855064 [00009a88] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 14:08:22.693948 [000079ec] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 14:08:22.701926 [00005e04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 14:08:22.704918 [00005a30] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 14:08:22.704918 [0000b6f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 14:08:24.878121 [000079f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 16:23:20.986035 [00003bf0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 16:23:21.000596 [00005b64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 16:23:21.001597 [000047e0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 16:23:21.001597 [000039f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 16:23:21.003591 [00006a60] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 17:23:29.197371 [000011a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 17:23:29.210870 [00001340] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 17:23:29.211867 [00004c18] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 17:23:29.221865 [00009a88] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 17:48:21.136448 [00007164] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-11 17:48:22.143655 [00007164] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 17:48:24.173367 [00007164] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 17:48:24.275978 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.276975 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.276975 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.277973 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.277973 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.277973 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.278970 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.278970 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.278970 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.279967 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.279967 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.279967 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.279967 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.279967 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.280965 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.280965 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.280965 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.280965 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:48:24.286233 [00007164] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 17:49:09.051389 [00005e04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 18:55:03.281904 [00005a7c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 18:55:03.292439 [000094d8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 18:55:03.373930 [000033a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 18:55:03.373930 [0000353c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 18:55:04.235486 [000088d0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 18:55:04.236484 [00008cd0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 18:55:04.256457 [0000353c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 22:08:31.598529 [00006a74] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-11 22:08:32.606514 [00006a74] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 22:08:35.217853 [00006a74] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 22:08:35.338195 [00006a74] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 22:08:35.338195 [00006a74] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 22:08:35.339164 [00006a74] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 22:08:35.339164 [00006a74] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 22:08:35.339164 [00006a74] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 22:08:35.339164 [00006a74] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 22:08:35.340162 [00006a74] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 22:08:35.340162 [00006a74] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 22:08:35.340162 [00006a74] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 22:08:35.341194 [00006a74] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 22:08:35.341194 [00006a74] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 22:08:35.341194 [00006a74] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 22:08:35.341194 [00006a74] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 22:08:35.341194 [00006a74] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 22:08:35.344739 [00006a74] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-11 22:09:10.428654 [00001f64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 22:09:10.438815 [00009ac0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 22:09:10.438815 [00005e04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 22:09:10.439813 [00007d64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 22:09:10.440810 [0000b850] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-11 22:09:13.294426 [000047e0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 03:38:30.873986 [00008a6c] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-12 03:38:31.883714 [00008a6c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 03:38:33.748554 [00008a6c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 03:38:33.813439 [00008a6c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 03:38:33.813439 [00008a6c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 03:38:33.814451 [00008a6c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 03:38:33.814451 [00008a6c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 03:38:33.814451 [00008a6c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 03:38:33.814451 [00008a6c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 03:38:33.815434 [00008a6c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 03:38:33.815434 [00008a6c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 03:38:33.816432 [00008a6c] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 03:39:12.088837 [0000921c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 03:39:12.099242 [00005e04] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 03:39:12.349860 [000067e0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 03:39:18.168092 [00009ac0] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 09:08:28.199551 [0000b038] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-12 09:08:29.209263 [0000b038] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 09:08:31.103628 [0000b038] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 09:08:31.136859 [0000b038] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 09:08:31.137862 [0000b038] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 09:08:31.137862 [0000b038] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 09:08:31.137862 [0000b038] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 09:08:31.137862 [0000b038] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 09:08:31.137862 [0000b038] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 09:08:31.137862 [0000b038] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 09:08:31.138852 [0000b038] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 09:09:13.850062 [000049b8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 09:09:21.052229 [00000194] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 11:44:28.663591 [0000577c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 11:44:28.663591 [00002200] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 11:44:28.665583 [00008cd0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 11:58:22.708174 [00006780] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-12 11:58:23.717816 [00006780] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 11:58:25.826292 [00006780] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 11:58:25.914012 [00006780] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 11:58:25.914012 [00006780] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 11:58:25.914012 [00006780] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 11:58:25.914012 [00006780] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 11:58:25.915039 [00006780] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 11:58:25.915039 [00006780] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 11:58:25.915039 [00006780] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 11:58:25.916009 [00006780] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 11:58:25.916009 [00006780] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 11:58:25.917006 [00006780] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 11:58:25.917006 [00006780] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 11:58:25.920668 [00006780] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 11:59:14.792768 [0000921c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 11:59:14.797755 [000049b8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 11:59:14.805353 [0000a884] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 11:59:14.808311 [00002608] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 11:59:14.809817 [0000b3a8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 11:59:15.533763 [000094d8] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 14:13:30.945619 [00004b24] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 19:49:40.619351 [0000ce10] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-12 19:49:41.627534 [0000ce10] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 19:49:43.573719 [0000ce10] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 19:49:43.654574 [0000ce10] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 19:49:43.654574 [0000ce10] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 19:49:43.655603 [0000ce10] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 19:49:43.655603 [0000ce10] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 19:49:43.655603 [0000ce10] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 19:49:43.655603 [0000ce10] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 19:49:43.655603 [0000ce10] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 19:49:43.656603 [0000ce10] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 19:49:43.656603 [0000ce10] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 19:49:43.656603 [0000ce10] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 19:49:43.657600 [0000ce10] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-12 19:50:24.870817 [0000ae3c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 19:50:24.881082 [000079f4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-12 19:50:27.468826 [00005a7c] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-13 00:02:14.428679 [00004210] [bd.scanclient.loadba] [37312] - Reset the fallback parameters (Server list changed)
+FATAL 2023-Oct-13 00:02:15.449846 [00004210] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-13 00:02:17.155700 [00004210] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-13 00:02:17.208499 [00004210] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 00:02:17.208499 [00004210] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 00:02:17.209499 [00004210] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 00:02:17.209499 [00004210] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 00:02:17.209499 [00004210] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 00:02:17.209499 [00004210] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 00:02:17.209499 [00004210] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 00:02:17.210499 [00004210] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 00:02:17.210499 [00004210] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 00:03:00.572110 [000078a4] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-13 00:03:00.576104 [000032d0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-13 00:03:00.580089 [00005a64] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-13 00:03:00.581086 [0000b850] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-13 00:03:00.584437 [00009ac0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-13 00:03:00.587451 [000088d0] [bd.scanclient.scan.m] [37312] - CoreInit successful
+FATAL 2023-Oct-13 03:02:26.733697 [00007878] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 03:02:26.733697 [00007878] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 03:02:26.733697 [00007878] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 03:02:26.733697 [00007878] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 03:02:26.733697 [00007878] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 03:02:26.733697 [00007878] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 03:02:26.733697 [00007878] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 03:02:26.733697 [00007878] [bd.scanclient.scan.m] [37312] - CoreUninit
+FATAL 2023-Oct-13 03:02:26.733697 [00007878] [bd.scanclient.scan.m] [37312] - CoreUninit
