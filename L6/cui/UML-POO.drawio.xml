@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2024-05-28T15:09:15.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="VW5CZUvDKoKouQBxhDDW" version="24.0.5" type="google">
+  <diagram name="Pagină-1" id="znSF8Z8sxKmWI3_76caC">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M2cVAutssonX_bmwfK_z-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=right;labelPosition=left;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="120" y="50" width="620" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="250" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="80" width="250" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-5" value="Buton 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-8" value="LABEL 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="255" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-9" value="Buton 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="280" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-10" value="Buton 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-11" value="Buton 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-12" value="Buton 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-13" value="LABEL 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="545" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-14" value="LABEL 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="545" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-15" value="- Panel 1&lt;div&gt;&amp;nbsp; - Panel 2&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; - Panel 4&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Buton 1&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Label 1&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; - Buton 2&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; - Buton 3&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Panel 3&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; - Buton 4&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; - Buton 5&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; - Label 2&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; - Label 3&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="780" y="50" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-16" value="Panel 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-17" value="Panel 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-18" value="Panel 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-19" value="Panel 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-20" value="«interface»&lt;br&gt;&lt;b&gt;Object&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;protected:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; vector&amp;lt;Object*&amp;gt; v;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;public:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; virtual void Desenare() = 0;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; virtual void Adauga(Object*) = 0;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; virtual pair&amp;lt;int, int&amp;gt; GetPos() = 0;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;void accept(Visitor*)&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="960" y="95" width="270" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-21" value="Panel" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="450" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-22" value="int x, y, w, h&lt;div&gt;string s&lt;/div&gt;&lt;div&gt;Object* parent&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="M2cVAutssonX_bmwfK_z-21">
+          <mxGeometry y="26" width="160" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="M2cVAutssonX_bmwfK_z-21">
+          <mxGeometry y="90" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-24" value="void Desenare()&lt;div&gt;void Adauga(Object*)&lt;/div&gt;&lt;div&gt;Panel(int x, int y, int w, int h, string s, Object* parent)&lt;/div&gt;&lt;div&gt;pair&amp;lt;int, int&amp;gt; GetPos();&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="M2cVAutssonX_bmwfK_z-21">
+          <mxGeometry y="98" width="160" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-26" value="Button" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="450" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-27" value="int x, y, w, h&lt;div&gt;string s&lt;/div&gt;&lt;div&gt;Object* parent&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="M2cVAutssonX_bmwfK_z-26">
+          <mxGeometry y="26" width="160" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-28" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="M2cVAutssonX_bmwfK_z-26">
+          <mxGeometry y="90" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-29" value="void Desenare()&lt;div&gt;void Adauga(Object*)&lt;/div&gt;&lt;div&gt;Panel(int x, int y, int w, int h, string s, Object* parent)&lt;/div&gt;&lt;div&gt;pair&amp;lt;int, int&amp;gt; GetPos();&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="M2cVAutssonX_bmwfK_z-26">
+          <mxGeometry y="98" width="160" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-30" value="Label" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="450" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-31" value="int x, y, w, h&lt;div&gt;string s&lt;/div&gt;&lt;div&gt;Object* parent&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="M2cVAutssonX_bmwfK_z-30">
+          <mxGeometry y="26" width="160" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-32" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="M2cVAutssonX_bmwfK_z-30">
+          <mxGeometry y="90" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-33" value="void Desenare()&lt;div&gt;void Adauga(Object*)&lt;/div&gt;&lt;div&gt;Panel(int x, int y, int w, int h, string s, Object* parent)&lt;/div&gt;&lt;div&gt;pair&amp;lt;int, int&amp;gt; GetPos();&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="M2cVAutssonX_bmwfK_z-30">
+          <mxGeometry y="98" width="160" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-40" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="M2cVAutssonX_bmwfK_z-30" target="M2cVAutssonX_bmwfK_z-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1200" y="420" as="sourcePoint" />
+            <mxPoint x="1360" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-41" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="M2cVAutssonX_bmwfK_z-26" target="M2cVAutssonX_bmwfK_z-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1200" y="420" as="sourcePoint" />
+            <mxPoint x="1360" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-42" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M2cVAutssonX_bmwfK_z-21" target="M2cVAutssonX_bmwfK_z-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1200" y="420" as="sourcePoint" />
+            <mxPoint x="1360" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-49" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M2cVAutssonX_bmwfK_z-20" target="M2cVAutssonX_bmwfK_z-20">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="1230" y="190" as="sourcePoint" />
+            <mxPoint x="1400" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1401" y="168" />
+              <mxPoint x="1401" y="40" />
+              <mxPoint x="1095" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-51" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="M2cVAutssonX_bmwfK_z-26" target="M2cVAutssonX_bmwfK_z-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1200" y="320" as="sourcePoint" />
+            <mxPoint x="1360" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-52" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="M2cVAutssonX_bmwfK_z-30" target="M2cVAutssonX_bmwfK_z-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1200" y="320" as="sourcePoint" />
+            <mxPoint x="1360" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-53" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.547;exitY=0.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="M2cVAutssonX_bmwfK_z-21" target="M2cVAutssonX_bmwfK_z-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1200" y="320" as="sourcePoint" />
+            <mxPoint x="1360" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-54" value="«interface»&lt;br&gt;&lt;b&gt;Visitor&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;visit(Object*)&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="75" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-57" value="AfisareText" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="270" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-58" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="M2cVAutssonX_bmwfK_z-57">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-59" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="M2cVAutssonX_bmwfK_z-57">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-60" value="visit(Object*)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="M2cVAutssonX_bmwfK_z-57">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-61" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.561;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M2cVAutssonX_bmwfK_z-57" target="M2cVAutssonX_bmwfK_z-54">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1440" y="239.57999999999998" as="sourcePoint" />
+            <mxPoint x="1600" y="239.57999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-63" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M2cVAutssonX_bmwfK_z-54" target="M2cVAutssonX_bmwfK_z-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1200" y="320" as="sourcePoint" />
+            <mxPoint x="1360" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2cVAutssonX_bmwfK_z-64" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1.019;exitY=0.42;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="M2cVAutssonX_bmwfK_z-20" target="M2cVAutssonX_bmwfK_z-54">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1200" y="320" as="sourcePoint" />
+            <mxPoint x="1360" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
